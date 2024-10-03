@@ -52,7 +52,7 @@ Clone o repositório:
 
 bash
 Copiar código
-git clone https://github.com/seu_usuario/seu_repositorio.git
+git clone https://github.com/sarapacheco-user/AtividadeSala04
 cd seu_repositorio
 Compile o programa: Certifique-se de ter o Java instalado e utilize o comando:
 
